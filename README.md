@@ -29,11 +29,11 @@ Selecionado a nossa opção: "***Incoming WebHooks***" e após isso "***Add Conf
 
 Será exibida a opção para criarmos um novo canal, escolha a opção: "***create a new channel***", onde poderá ser público ou privado, a principal diferença entre eles é que o privado é necessário um convite para novos membros ingressarem no canal, ai você quem decide o que é melhor. O Slack é dividido por canais para facilitar a comunicação, dessa forma você poderá criar quantos canais forem necessários separados por assuntos, quanto mais canais será mais simples o acompanhamento, uma vez que você poderá ir direto ao ponto.
 
-| Íten     | 	- | Descrição    |
-| :------- | 	:--: | :--- |
-| "***Name***" | - |  Definir o nome do grupo  |
-| "***Purpose***" | - |  Uma breve descrição  |
-| "***Send invites to***" | - |  Para enviar os convites aos participantes  |
+| Íten                  | - | Significado                               |
+| :-------------------- |:-:| :-----------------------------------------|
+| ***Name***            | - | Definir o nome do grupo                   |
+| ***Purpose***         | - | Uma breve descrição                       | 
+| ***Send invites to*** | - | Para enviar os convites aos participantes |
 
 
 Após isso será apresentada a tela anterior e na listagem dos grupos escolher o que foi criado, escolher "Add Incoming WebHooks integration", feito. Grupo criado.
@@ -45,12 +45,12 @@ https://hooks.slack.com/services/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
 Existem outras opções para personalizar, como:
 
 
-| Íten     | 	- | Descrição    |
-| :------- | 	:--: | :--- |
-| "***Descriptive Label***" | - |  Etiqueta de descritiva  |
-| ***"Customize Name"***    | - |  Nome Customizado   |
-| ***"Customize Icon"***   | - | Troca Icone  |
-|  ***"Preview Message"***  | - | Exemplo de como esta definido |
+| Íten                    | - | Significado                   |
+| :-----------------------|:-:| :---------------------------- |
+| ***Descriptive Labe"*** | - | Etiqueta de descritiva        |
+| ***Customize Name***    | - | Nome Customizado              |
+| ***Customize Icon***    | - | Troca Icone                   |
+| ***Preview Message***   | - | Exemplo de como esta definido |
 
 > Eu particularmente costumo trocar o ícone, e o nome para o mesmo nome da Descrição, mas fica a critério de cada um.
 
