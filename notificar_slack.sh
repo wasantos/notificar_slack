@@ -4,7 +4,7 @@
 #
 # Script: notificar_slack.sh
 # Objetivo: Notificar slack via WebHook
-# Utilização: ./Script.sh PARM1 PARM2
+# Utilização: ./Script.sh PARM1 PARM2 PARM3
 # Utilização: ./coletar_labels.sh SLACK_WEBHOOK SLACK_CHANNEL ":loudspeaker: *Segue nova mensagem* :arrow_right: TEXTO DA MENSAGEM"
 # Data: 2017-08-20
 #
