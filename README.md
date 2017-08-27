@@ -3,7 +3,7 @@
 
 Os ambientes operacionais exigem um maior cuidado e acompanhar os processos é fundamental, já utilizei notificações via SMS, mas nem todas as pessoas tem acesso a um gateway. Mas hoje podemos realizar o acompanhamento através de ferramentas que estão ao alcance das pessoas que desejam. Eu particularmente utilizo o SLACK, possui muitas vantagens, e iremos abordar a partir de agora.
 
-Particularmente acredito que para evitar qualquer crise, é necessário controlar como se estivesse em crise, implementar um plano de ação pós crise, é sempre muito mais traumático. Coletar as informações ao longo do tempo poderá ajudar em tomadas de decisões futuras, e para isso é necessário conhecer bem o passado.
+Particularmente acredito que para evitar qualquer crise, é necessário controlar como se estivesse em crise, implementar um plano de ação pós crise, é sempre muito mais traumático. Coletar as informações ao longo do tempo poderá ajudar tomadas de decisões futuras, e para isso é necessário conhecer bem o passado.
 
 O objetivo do post, é apresentar uma das formas de utilização da ferramenta e sugerir como implementar e utilizar através de sistemas operacionais baseados em Linux com acesso a internet.
 
