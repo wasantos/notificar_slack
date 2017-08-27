@@ -1,4 +1,4 @@
-**Acompanhar remotamente via Slack**
+**Notificar Slack**
 -------------
 
 Os ambientes operacionais exigem um maior cuidado e acompanhar os processos é fundamental, já utilizei notificações via SMS, mas nem todas as pessoas tem acesso a um gateway. Mas hoje podemos realizar o acompanhamento através de ferramentas que estão ao alcance das pessoas que desejam. Eu particularmente utilizo o SLACK, possui muitas vantagens, e iremos abordar a partir de agora de formar gradual.
